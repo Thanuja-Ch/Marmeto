@@ -1,0 +1,199 @@
+.bg-container {
+    background-color: rgb(255, 251, 247);
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.list-container {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.list {
+    padding: 10px 15px;
+}
+
+.head {
+    margin: 0;
+    color: rgb(35, 34, 41);
+    font-family: Goldman;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 180%;
+    letter-spacing: 0%;
+    text-align: left;
+
+}
+
+.icon-container {
+    display: flex;
+}
+
+.icon {
+    width: 24px;
+    height: 24px;
+    margin-left: 10px;
+}
+
+.input-container {
+    position: absolute;
+    width: 506px;
+    height: 70px;
+    left: 278px;
+    right: 656px;
+    top: 146px;
+    bottom: 951px;
+}
+
+input {
+    padding: 7px;
+    width: 506px;
+    height: 70px;
+    left: 278px;
+    right: 656px;
+    top: 146px;
+    bottom: 951px;
+    border-radius: 1px;
+}
+
+.insta {
+    position: absolute;
+    width: 98px;
+    height: 29px;
+    left: 904px;
+    right: -827px;
+    top: 20px;
+    bottom: -175px;
+    color: rgb(35, 34, 41);
+    font-family: Gilroy;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 180%;
+    letter-spacing: 1.6%;
+    text-align: left;
+}
+
+hr {
+    position: absolute;
+    width: 98px;
+    left: 800px;
+    right: -827px;
+    top: 40px;
+}
+
+.text-container {
+    position: absolute;
+    width: 643px;
+    height: 339px;
+    left: 120px;
+    right: 677px;
+    top: 254.5px;
+    bottom: 573.5px;
+}
+
+.fabric-text {
+    color: rgb(35, 34, 41);
+    font-family: Tahoma;
+    font-size: 80px;
+    font-weight: 400;
+    line-height: 180%;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.fab {
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+}
+
+.image-bg-container {
+    position: absolute;
+    width: 582.78px;
+    height: 450.51px;
+    left: 100px;
+    right: 137.22px;
+    top: 95.85px;
+    bottom: 447.64px;
+}
+
+.image-container {
+    background: url("assets/Group\ 200.png");
+    position: absolute;
+    width: 578.88px;
+    height: 392.12px;
+    left: 670px;
+    top: 157.24px;
+}
+
+.image-2 {
+    position: absolute;
+    width: 764px;
+    height: 353px;
+    left: 111px;
+    right: 565px;
+    top: 800px;
+    bottom: 14px;
+}
+
+.h3last {
+    position: absolute;
+    width: 320px;
+    height: 162px;
+    left: 963px;
+    right: -963px;
+    top: 869px;
+    bottom: -846px;
+    color: rgb(35, 34, 41);
+    font-family: Gilroy;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 150%;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.view {
+
+    box-shadow: 6px 6px 0px 0px rgb(254, 106, 58);
+    background: rgb(35, 34, 41);
+    padding: 20px;
+    padding-left: 60px;
+    padding-right: 60px;
+    width: 265px;
+    margin: 20px;
+    margin-left: 460px;
+    color: white;
+}
+
+.watch {
+    padding: 20px;
+    padding-left: 60px;
+    padding-right: 60px;
+    border: 1px solid rgb(0, 0, 0);
+    background: rgb(255, 251, 247);
+    width: 165px;
+    margin: 25px;
+}
+
+.buttons-container {
+    position: relative;
+    width: 165px;
+    height: 68px;
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px;
+    box-sizing: border-box;
+    top: 500px;
+
+
+}
